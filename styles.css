@@ -1,0 +1,26 @@
+#title {
+   display: flex;
+   justify-content: center;
+}
+
+#row {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+
+}
+
+#plus {
+    width: 100px;
+    height: 30px;
+    background-color: aquamarine;
+}
+
+#reset {
+    width: 100px;
+    height: 30px;
+    background-color: aquamarine;
+}
+
+
+
